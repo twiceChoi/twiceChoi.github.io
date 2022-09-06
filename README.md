@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio
 
 A simple and modern portfolio template that is lightweight, mobile responsive and looks modern. 
@@ -27,3 +28,7 @@ A simple and modern portfolio template that is lightweight, mobile responsive an
 
 ### License
 GPL
+=======
+# twiceChoi.github.io
+깃허브 웹 포트폴리오
+>>>>>>> 5ea5402963d136774fc19c1a07753f993be31199
