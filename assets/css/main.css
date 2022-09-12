@@ -225,9 +225,10 @@ img {
 .paragraph-text {
   font-family: "Quicksand", Arial, sans-serif;
   font-size: 20.8px;
-  font-size: 1.3rem;
+  font-size: 1.0rem;
   margin: 30px auto;
-  color: #404040;
+  color: #404040b0;
+  line-height: 1.5;
 }
 .paragraph-text-Head {
   font-family: "Quicksand", Arial, sans-serif;
