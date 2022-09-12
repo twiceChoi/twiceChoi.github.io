@@ -223,20 +223,28 @@ img {
 }
 
 .paragraph-text {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "Quicksand", Arial, sans-serif;
   font-size: 20.8px;
   font-size: 1.3rem;
   margin: 30px auto;
   color: #404040;
 }
+.paragraph-text-Head {
+  font-family: "Quicksand", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 21.3px;
+  font-size: 1.3rem;
+  margin: 30px auto;
+  color: #161616;
+}
 
 .paragraph-text-normal {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "Quicksand", Arial, sans-serif;
   color: #404040;
 }
 
 .pt-sans-font {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "Quicksand", Arial, sans-serif;
 }
 
 .skill-grid-item {
@@ -280,7 +288,7 @@ img {
           align-items: center;
   min-height: 35px;
   color: #fff;
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-family: "Quicksand", Arial, sans-serif;
 
   background: url(../images/background.png);
   background-repeat: repeat;
