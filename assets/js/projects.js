@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
-            categories: ['Persinal']
+            categories: ['Personal']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
@@ -51,7 +51,7 @@ let render_projects = (slug) => {
     let projects = [];
     projects = projects_obj.filter(project => project.categories.includes(slug)).map(project_mapper);
     projects_area.hide().html(projects).fadeIn();
-    
+
 }
 
 let project_mapper = project => {
