@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Crazy Acade',
             demo: false,
             technologies: ['C++', 'WinAPI'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            description: "WinAPI를 이용한 CrazyArcade 모작[2D], 제작기간 2주",
             categories: ['Personal']
         },
         {
@@ -25,7 +25,7 @@ let render_projects = (slug) => {
             title: 'It takes two(RPG)',
             demo: false,
             technologies: ['C++', 'DirectX','MFC'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
+            description: "DirectX를 이용한 It takes two(RPG) 모작[3D], 제작기간 3달",
             categories: ['Personal']
         },
         {
@@ -34,7 +34,7 @@ let render_projects = (slug) => {
             title: 'Perspective',
             demo: false,
             technologies: ['C++', 'DirectX','MFC'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
+            description: "DirectX[SoftRendering]를 이용한 Perspective 모작[3D], 제작기간 3주",
             categories: ['Team']
         },
         {
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             title: 'Kirby Discovery',
             demo: false,
             technologies: ['C++', 'DirectX'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
+            description: "DirectX를 이용한 Kirby Discovery 모작(3D)",
             categories: ['Team']
         },
     ]
