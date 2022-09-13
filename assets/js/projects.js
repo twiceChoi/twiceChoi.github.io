@@ -13,8 +13,8 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/mentors.jpg',
             link: 'https://github.com/abhn/Mporter',
-            title: 'Mporter',
-            demo: 'https://mporter.co',
+            title: 'Crazy Acade',
+            demo: false,
             technologies: ['Flask', 'Celery', 'Python'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
             categories: ['Personal']
@@ -22,8 +22,8 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
-            demo: 'http://wall-e-jekyll.github.io/',
+            title: 'It takes two(RPG)',
+            demo: false,
             technologies: ['Semantic UI', 'Jekyll'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
             categories: ['Personal']
@@ -31,7 +31,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/collage.jpg',
             link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
+            title: 'Perspective',
             demo: false,
             technologies: ['Android', 'OpenCV'],
             description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
@@ -40,8 +40,8 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/mpw.jpg',
             link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
-            demo: 'https://www.nagekar.com/mpw',
+            title: 'Kirby Discovery',
+            demo: false,
             technologies: ['Semantic UI', 'CSS3'],
             description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
             categories: ['Team']
