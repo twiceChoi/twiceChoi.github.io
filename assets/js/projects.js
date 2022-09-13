@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/abhn/Mporter',
+            link: 'https://happy-runner.tistory.com/192',
             title: 'Crazy Acade',
             demo: false,
             technologies: ['C++', 'WinAPI'],
@@ -21,7 +21,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
+            link: 'https://happy-runner.tistory.com/193',
             title: 'It takes two(RPG)',
             demo: false,
             technologies: ['C++', 'DirectX','MFC'],
@@ -30,7 +30,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
+            link: 'https://happy-runner.tistory.com/194',
             title: 'Perspective',
             demo: false,
             technologies: ['C++', 'DirectX','MFC'],
@@ -39,7 +39,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
+            link: 'https://happy-runner.tistory.com/195',
             title: 'Kirby Discovery',
             demo: false,
             technologies: ['C++', 'DirectX'],
