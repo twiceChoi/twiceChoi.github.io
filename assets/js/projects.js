@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/abhn/Mporter',
             title: 'Crazy Acade',
             demo: false,
-            technologies: ['Flask', 'Celery', 'Python'],
+            technologies: ['C++', 'WinAPI'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
             categories: ['Personal']
         },
@@ -24,7 +24,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/abhn/Wall-E',
             title: 'It takes two(RPG)',
             demo: false,
-            technologies: ['Semantic UI', 'Jekyll'],
+            technologies: ['C++', 'DirectX','MFC'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
             categories: ['Personal']
         },
@@ -33,7 +33,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/abhn/Marvel',
             title: 'Perspective',
             demo: false,
-            technologies: ['Android', 'OpenCV'],
+            technologies: ['C++', 'DirectX','MFC'],
             description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
             categories: ['Team']
         },
@@ -42,7 +42,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/abhn/mpw',
             title: 'Kirby Discovery',
             demo: false,
-            technologies: ['Semantic UI', 'CSS3'],
+            technologies: ['C++', 'DirectX'],
             description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
             categories: ['Team']
         },
