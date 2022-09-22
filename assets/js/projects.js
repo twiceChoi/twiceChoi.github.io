@@ -12,7 +12,10 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://happy-runner.tistory.com/192',
+            //link: 'https://happy-runner.tistory.com/192',
+            link: 'https://twicechoi.github.io/images/project_1.pdf',
+            
+            
             title: 'Crazy Acade',
             demo: false,
             technologies: ['C++', 'WinAPI'],
@@ -43,7 +46,7 @@ let render_projects = (slug) => {
             title: 'Kirby Discovery',
             demo: false,
             technologies: ['C++', 'DirectX'],
-            description: "DirectX를 이용한 Kirby Discovery 모작(3D)",
+            description: "DirectX를 이용한 Kirby Discovery 모작(3D), ",
             categories: ['Team']
         },
     ]
