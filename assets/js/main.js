@@ -24,11 +24,11 @@ function blog_posts() {
     let posts = [
         {
             url: 'https://docs.google.com/viewer?url=https://github.com/twiceChoi/twiceChoi.github.io/blob/main/assets/images/project_1.pdf?raw=T',
-            title: '3D 개인 포트폴리오',
+            ttitle: 'Trek To Bramhatal (Uttarakhand)',
         },
         {
             url: 'https://docs.google.com/viewer?url=https://github.com/twiceChoi/twiceChoi.github.io/blob/main/assets/images/project_2.pdf?raw=T',
-            title: '3D 팀 포트폴리오',
+            title: 'Privacy - How I Converted',
         },
     ];
 
@@ -36,29 +36,29 @@ function blog_posts() {
 
     for(let post of posts) {
 
-            let tags;
-            
-            if(post.tags) {
-                tags = post.tags.map(tag => {
-                    return `<a href="https://www.nagekar.com/tags#${tag}">${tag}</a>`
-                })
-            }
-
-            let post_template = `
-            <div class="blog-post" onclick="blog_link_click('${post.url}');">
-                <div class="blog-link">
+        let tags;
         
-                    <h3><a href="${post.url}"</a></h3>            
-                </div>
-        
-                <div class="blog-goto-link">
-                    <img class="blog-arrow" src="/assets/images/right-open-mini.svg"/>
-                </div>
-            </div>
-            `;
-
-            post_html.push(post_template);
+        if(post.tags) {
+            tags = post.tags.map(tag => {
+                return `<a href="https://www.nagekar.com/tags#${tag}">${tag}</a>`
+            })
         }
+
+        let post_template = `
+        <div class="blog-post" onclick="blog_link_click('${post.url}');">
+            <div class="blog-link">
+    
+                <h3><a href="${post.url}">${post.title}</a></h3>            
+            </div>
+    
+            <div class="blog-goto-link">
+                <img class="blog-arrow" src="/assets/images/right-open-mini.svg"/>
+            </div>
+        </div>
+        `;
+
+        post_html.push(post_template);
+    }
 }
 function blog_link_click(url) {
     window.location = url;
