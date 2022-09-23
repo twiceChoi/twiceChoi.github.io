@@ -31,8 +31,8 @@ function blog_posts() {
             //title: '3D 팀 포트폴리오',
         //},
 
-                {
-            url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
+        {
+            url: 'https://docs.google.com/viewer?url=https://github.com/twiceChoi/twiceChoi.github.io/blob/main/assets/images/project_1.pdf?raw=T',
             title: 'Trek To Bramhatal (Uttarakhand)',
         },
         {
