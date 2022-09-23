@@ -12,10 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            //link: 'https://happy-runner.tistory.com/192',
-            link: 'https://twicechoi.github.io/images/project_1.pdf',
-            
-            
+            link: 'https://happy-runner.tistory.com/192',
             title: 'Crazy Acade',
             demo: false,
             technologies: ['C++', 'WinAPI'],
