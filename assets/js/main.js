@@ -48,7 +48,7 @@ function blog_posts() {
             <div class="blog-post" onclick="blog_link_click('${post.url}');">
                 <div class="blog-link">
         
-                    <h3><a href="${post.url}">${post.title}</a></h3>            
+                    <h3><a href="${post.url}"</a></h3>            
                 </div>
         
                 <div class="blog-goto-link">
