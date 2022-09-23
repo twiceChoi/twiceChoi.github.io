@@ -1,18 +1,18 @@
 title: Choi Seong Hee
 description: Game Client Programmer
-site_title: '@abhn - Abhishek Nagekar'
+site_title: 'portfolio - Choi SeongHee'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
+github_username: twiceChoi
+blog_url:
 email: chltjdgml51@naver.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+keybase_username: 
+twitter_username: 
+reddit_username: 
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
