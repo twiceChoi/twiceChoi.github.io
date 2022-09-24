@@ -27,7 +27,7 @@ function blog_posts() {
             },
             {
                 url: 'https://docs.google.com/viewer?url=https://github.com/twiceChoi/twiceChoi.github.io/blob/main/assets/images/project_2.pdf?raw=T',
-                title: 'Privacy - How I Converted',
+                title: 'Kirby Discovery 기술소개서',
             },
 
         ];
