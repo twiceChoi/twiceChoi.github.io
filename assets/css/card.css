@@ -92,6 +92,7 @@
 	grid-column-start: 1;
 	grid-column-end: 2;
 	border-right: solid 1px lightgray;
+	font-size: 1rem;
 }
 
 .blog-link a {
