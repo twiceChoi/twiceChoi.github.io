@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://happy-runner.tistory.com/192',
+            link: 'https://www.youtube.com/watch?v=e6hmYRBL6o8',
             title: 'Crazy Acade',
             demo: false,
             technologies: ['C++', 'WinAPI'],
@@ -21,7 +21,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://happy-runner.tistory.com/193',
+            link: 'https://www.youtube.com/watch?v=0OcuoUJEeaQ',
             title: 'It takes two(RPG)',
             demo: false,
             technologies: ['C++', 'DirectX','MFC'],
@@ -30,7 +30,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/collage.jpg',
-            link: 'https://happy-runner.tistory.com/194',
+            link: 'https://www.youtube.com/watch?v=Ae-emTdvvzU',
             title: 'Perspective',
             demo: false,
             technologies: ['C++', 'DirectX','MFC'],
@@ -39,7 +39,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mpw.jpg',
-            link: 'https://happy-runner.tistory.com/195',
+            link: 'https://www.youtube.com/watch?v=ZT06bB4fbms',
             title: 'Kirby Discovery',
             demo: false,
             technologies: ['C++', 'DirectX'],
